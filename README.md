@@ -38,7 +38,7 @@ Pengguna dapat mencentang catatan yang sudah selesai. Catatan yang selesai akan 
 ### 6. Layar "About" Profesional
 Informasi pengembang yang disajikan dengan desain kartu yang modern dan bersih.
 > **Screenshot Fitur:**
-> ![About Screen](screenshots/about.png)
+> ![About Screen](screenshots/about.jpeg)
 
 ---
 
