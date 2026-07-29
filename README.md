@@ -7,7 +7,6 @@ Aplikasi catatan modern yang dibangun dengan Jetpack Compose, mengikuti arsitekt
 - **Nama**: Risqullah Fani Fadhilrif'at
 - **NIM**: 22083000044
 - **Kelas**: 6A2
-- **Waktu**: Juli 2026
 
 ---
 
